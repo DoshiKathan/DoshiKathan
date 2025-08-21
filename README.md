@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kathan Doshi 👋
 
-<!--
-**DoshiKathan/DoshiKathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **first-year Electronics and Communication Engineering (ECE) student at LD College of Engineering, Ahmedabad**.  
+Currently exploring **Arduino, C programming, and core electronics fundamentals**, while keeping my path open to discover what excites me most in the ECE domain.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+- Basics of **C programming**  
+- **Arduino projects & microcontrollers**  
+- Core electronics and circuit fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Current Focus
+- Building a strong foundation in electronics  
+- Exploring different domains: Embedded, IoT, Communication & VLSI  
+- Developing hands-on projects and documenting them  
+
+### 📫 Connect with me
+- **LinkedIn:** www.linkedin.com/in/kathan-doshi-320272378
+- **Email:** doshi.kathan.20@gmail.com
+
+> *"Curiosity is the first step to innovation."*
